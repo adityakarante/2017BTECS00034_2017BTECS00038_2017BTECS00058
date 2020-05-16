@@ -1,6 +1,6 @@
 # 2017BTECS00034_2017BTECS00038_2017BTECS00058
 
-# Problem Statement: Count the lines in the given Image.
+# Problem Statement: Detect the lines in the given Image.
 
 # Algorithm used: Probabilistic Hough Line Transform Alogrithm
 
