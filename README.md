@@ -13,6 +13,8 @@ Steps:
 4) Run the Code: Python lines.py
 5) Check the output image in the directory.
 
+Slides Link: https://docs.google.com/presentation/d/1LphLRtb4xI_nnpUStkqK-1Mg7Y5muWaMPFxJp4ocvgU/edit?usp=sharing
+
 Group Members:
 
 1) Swapnil Bhingardeve    2017BTECS00034
