@@ -2,7 +2,7 @@
 
 # Problem Statement: Count the lines in the given Image.
 
-# Algorithm used: Probablistic Hough Line Transform Alogrithm
+# Algorithm used: Probabilistic Hough Line Transform Alogrithm
 
 To run the project:
 
