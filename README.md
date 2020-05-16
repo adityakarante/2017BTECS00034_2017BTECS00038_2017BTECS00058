@@ -8,9 +8,10 @@ To run the project:
 
 Steps:
 1) Clone the repo.
-2) Edit the code according to the name of input image.
-3) Run the Code: Python lines.py
-4) Check the output image in the directory.
+2) Paste the input image of your choice in the cloned directory.
+3) Edit the code according to the name of input image.
+4) Run the Code: Python lines.py
+5) Check the output image in the directory.
 
 Group Members:
 
