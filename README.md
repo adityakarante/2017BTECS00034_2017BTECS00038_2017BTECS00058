@@ -12,7 +12,7 @@ Steps:
 3) Run the Code: Python lines.py
 4) Check the output image in the directory.
 
-This project is created by:
+Group Members:
 
 1) Swapnil Bhingardeve    2017BTECS00034
 2) Aditya Karante         2017BTECS00038
